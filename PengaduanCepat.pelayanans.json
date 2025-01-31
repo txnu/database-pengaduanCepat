@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "679cb515eae09a088a253e33"
+  },
+  "namalayanan": "Alur Pelayanan SPKT Polsek Galing",
+  "idUnit": {
+    "$oid": "678d39869e1bf7e4efbf0197"
+  },
+  "deskripsi": "1. Masyarakat Datang Ke SPKT Melalui Media Komunikasi Atau Tatap Muka\r\n2. Melakukan Konsultasi Hukum\r\n3. Membuat Surat Pernyataan Pelapor\r\n4. Pembuatan Laporan Polisi\r\n5. Pembuatan STL ( Surat Tanda Lapor )\r\n6. Mengisi Kotak Saran\r\n7. Penyaluran Laporan Polisi\r\n8. Laporan Polisi DiCatat Dalam Register B1",
+  "image": "2025-01-31T11-38-43.291Z.jpg",
+  "__v": 0
+}]

@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "66dac17771c7f45f5aff797b"
+  },
+  "jabatan": "KAPOLRI",
+  "nama": "Jenderal Polisi Drs. Listyo Sigit Prabowo, M.Si.",
+  "image": "2024-09-06T08-46-47.079Z.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678cdf1aa03da850a09fe001"
+  },
+  "jabatan": "KAPOLDA KALIMANTAN BARAT",
+  "nama": "Irjen. Pol. Pipit Rismanto, S.I.K.",
+  "image": "2025-01-19T11-35-35.982Z.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678cdf27a03da850a09fe004"
+  },
+  "jabatan": "KAPOLRES SAMBAS",
+  "nama": "AKBP. Sugiyatmo, S.I.K.",
+  "image": "2025-01-19T11-47-46.618Z.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678cdf31a03da850a09fe007"
+  },
+  "jabatan": "KAPOLSEK GALING",
+  "nama": "IPTU Eko Zaenudin, S. AP., M.H.,",
+  "image": "2025-01-28T20-41-46.499Z.jpeg",
+  "__v": 0
+}]
