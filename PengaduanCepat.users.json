@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "672fc3522631bce51249e594"
+  },
+  "namalengkap": "Tanu",
+  "NIK": 1234567891111111,
+  "tanggal_lahir": "Sekura, 16 Januari 2003",
+  "pekerjaan": "Pelajar/Mahasiswa",
+  "telepon": "08222222",
+  "email": "tanu@example.com",
+  "password": "$2b$10$SWwjmswViaFi8cGEj.gVEO2ELen4IezrY/G9LExqwAyhKNOxwaD1K",
+  "alamat": "Kecamatan Galing",
+  "role": 1,
+  "__v": 0,
+  "pengaduan": []
+},
+{
+  "_id": {
+    "$oid": "672fc43b2631bce51249e5a3"
+  },
+  "namalengkap": "SPKT",
+  "NIK": 6101021601030001,
+  "tanggal_lahir": "Sekura, 16 Januari 2003",
+  "pekerjaan": "Pelajar/Mahasiswa",
+  "telepon": "08222222",
+  "email": "SPKT@example.com",
+  "password": "$2b$10$1quxVl9FB3mSZxqpZYvsaO9FFkQJvldV9qY9dGbRtHFpVI31NubOO",
+  "alamat": "Kecamatan Galing",
+  "role": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679d211a5e99704c386c8e87"
+  },
+  "namalengkap": "Tanu Wijaya",
+  "NIK": "1234567890123457",
+  "tanggal_lahir": {
+    "$date": "2003-01-16T00:00:00.000Z"
+  },
+  "alamat": "Kecamatan Galing",
+  "pekerjaan": "Pelajar/Mahasiswa",
+  "agama": "Islam",
+  "telepon": "123456789012",
+  "password": "$2b$10$xlLwLYglKda8mpcyp/eNOuX2P6gsmAHsQP3QyH1LEt8mizJBksTLC",
+  "pengaduan": [],
+  "role": 1,
+  "__v": 0
+}]
