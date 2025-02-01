@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "678d39869e1bf7e4efbf0197"
+  },
+  "namaunit": "SPKT",
+  "fungsi": "Melayani aduan masyarakat",
+  "image": "2025-01-28T19-55-13.455Z.png",
+  "tanggal": {
+    "$date": "2025-01-19T17:42:30.344Z"
+  },
+  "__v": 0
+}]
